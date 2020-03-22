@@ -1,0 +1,7 @@
+C:\Users\Burakhan\Desktop\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Release\Player.IO GameLibrary.dll
+C:\Users\Burakhan\Desktop\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Release\Player.IO GameLibrary.xml
+C:\Users\Burakhan\Desktop\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Release\Game Code.csprojResolveAssemblyReference.cache
+C:\Users\Burakhan\Desktop\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Release\NumsUnity3D.dll
+C:\Users\Burakhan\Desktop\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Release\NumsUnity3D.pdb
+C:\Users\Burakhan\Desktop\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Release\NumsUnity3D.dll
+C:\Users\Burakhan\Desktop\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Release\NumsUnity3D.pdb

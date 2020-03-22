@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3ee1705-8186-4509-ab85-cdbb100c71b0" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Game.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Serverside Code/Game Code/Game.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1099">
+              <caret line="57" column="52" lean-forward="true" selection-start-line="57" selection-start-column="52" selection-end-line="57" selection-end-column="52" />
+              <folding>
+                <marker date="1584903135175" expanded="false" signature="6:95" ph="..." />
+                <marker date="1584903135175" expanded="true" signature="119:2889" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="154:221" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="287:1895" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="399:563" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="404:507" ph="/* anything you write to the Console will show up in the ... */" />
+                <marker date="1584903135175" expanded="true" signature="628:876" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="655:720" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="728:868" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="764:863" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="794:821" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="1001:1049" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="1160:1228" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="1186:1224" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="1284:1398" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="1354:1377" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="1504:1537" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="1683:1892" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="1709:1888" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="1957:2885" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="2091:2470" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="2147:2272" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="2186:2267" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="2214:2261" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="2298:2466" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="2573:2882" ph="{...}" />
+                <marker date="1584903135175" expanded="true" signature="2772:2848" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Serverside Code/Player.IO Test Server Project/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="14" column="65" lean-forward="true" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
+              <folding>
+                <marker date="1584903136653" expanded="false" signature="6:94" ph="..." />
+                <marker date="1584903136653" expanded="true" signature="128:681" ph="{...}" />
+                <marker date="1584903136653" expanded="true" signature="159:679" ph="{...}" />
+                <marker date="1584903136653" expanded="true" signature="196:676" ph="{...}" />
+                <marker date="1584903136653" expanded="true" signature="201:613" ph="/* (Uncomment line to start server and make it simulate the user 'bob' connecting for 30 seconds) ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Serverside Code/Game Code/Game.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Serverside Code/Player.IO Test Server Project/Startup.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Serverside Code/Game Code/Game.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="365" />
+    <option name="y" value="101" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Serverside Code (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="dotNetConsole" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Serverside Code/Player.IO Test Server Project/bin/Debug/Test Server.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Serverside Code/Player.IO Test Server Project/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Serverside Code/Player.IO Test Server Project/Player.IO Test Server.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3ee1705-8186-4509-ab85-cdbb100c71b0" name="Default" comment="" />
+      <created>1559950063607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559950063607</updated>
+      <workItem from="1559950068770" duration="36669000" />
+      <workItem from="1560640755411" duration="2454000" />
+      <workItem from="1560654747413" duration="1008000" />
+      <workItem from="1584911150269" duration="97000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40228000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897604" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="5" visible="true" weight="0.25799572" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978212" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32897604" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Serverside Code/Game Code/Game.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1584903135175" expanded="false" signature="6:95" ph="..." />
+            <marker date="1584903135175" expanded="true" signature="119:2889" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="154:221" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="287:1895" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="399:563" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="404:507" ph="/* anything you write to the Console will show up in the ... */" />
+            <marker date="1584903135175" expanded="true" signature="628:876" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="655:720" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="728:868" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="764:863" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="794:821" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1001:1049" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1160:1228" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1186:1224" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1284:1398" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1354:1377" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1504:1537" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1683:1892" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1709:1888" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1957:2885" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2091:2470" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2147:2272" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2186:2267" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2214:2261" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2298:2466" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2573:2882" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2772:2848" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Serverside Code/Player.IO Test Server Project/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding>
+            <marker date="1584903136653" expanded="false" signature="6:94" ph="..." />
+            <marker date="1584903136653" expanded="true" signature="128:681" ph="{...}" />
+            <marker date="1584903136653" expanded="true" signature="159:679" ph="{...}" />
+            <marker date="1584903136653" expanded="true" signature="196:676" ph="{...}" />
+            <marker date="1584903136653" expanded="true" signature="201:613" ph="/* (Uncomment line to start server and make it simulate the user 'bob' connecting for 30 seconds) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Serverside Code/Game Code/Game.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <marker date="1584903135175" expanded="false" signature="6:95" ph="..." />
+            <marker date="1584903135175" expanded="true" signature="119:2889" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="154:221" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="287:1895" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="399:563" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="404:507" ph="/* anything you write to the Console will show up in the ... */" />
+            <marker date="1584903135175" expanded="true" signature="628:876" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="655:720" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="728:868" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="764:863" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="794:821" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1001:1049" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1160:1228" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1186:1224" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1284:1398" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1354:1377" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1504:1537" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1683:1892" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1709:1888" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1957:2885" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2091:2470" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2147:2272" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2186:2267" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2214:2261" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2298:2466" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2573:2882" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2772:2848" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Serverside Code/Player.IO Test Server Project/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+          <folding>
+            <marker date="1584903136653" expanded="false" signature="6:94" ph="..." />
+            <marker date="1584903136653" expanded="true" signature="128:681" ph="{...}" />
+            <marker date="1584903136653" expanded="true" signature="159:679" ph="{...}" />
+            <marker date="1584903136653" expanded="true" signature="196:676" ph="{...}" />
+            <marker date="1584903136653" expanded="true" signature="201:613" ph="/* (Uncomment line to start server and make it simulate the user 'bob' connecting for 30 seconds) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Serverside Code/Game Code/Game.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2064">
+          <caret line="89" column="54" lean-forward="true" selection-start-line="89" selection-start-column="54" selection-end-line="89" selection-end-column="54" />
+          <folding>
+            <marker date="1584903135175" expanded="false" signature="6:95" ph="..." />
+            <marker date="1584903135175" expanded="true" signature="119:2889" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="154:221" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="287:1895" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="399:563" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="404:507" ph="/* anything you write to the Console will show up in the ... */" />
+            <marker date="1584903135175" expanded="true" signature="628:876" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="655:720" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="728:868" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="764:863" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="794:821" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1001:1049" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1160:1228" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1186:1224" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1284:1398" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1354:1377" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1504:1537" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1683:1892" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1709:1888" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1957:2885" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2091:2470" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2147:2272" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2186:2267" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2214:2261" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2298:2466" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2573:2882" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2772:2848" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Serverside Code/Player.IO Test Server Project/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1584903136653" expanded="false" signature="6:94" ph="..." />
+            <marker date="1584903136653" expanded="true" signature="128:681" ph="{...}" />
+            <marker date="1584903136653" expanded="true" signature="159:679" ph="{...}" />
+            <marker date="1584903136653" expanded="true" signature="196:676" ph="{...}" />
+            <marker date="1584903136653" expanded="true" signature="201:613" ph="/* (Uncomment line to start server and make it simulate the user 'bob' connecting for 30 seconds) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Serverside Code/Game Code/Game.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1099">
+          <caret line="57" column="52" lean-forward="true" selection-start-line="57" selection-start-column="52" selection-end-line="57" selection-end-column="52" />
+          <folding>
+            <marker date="1584903135175" expanded="false" signature="6:95" ph="..." />
+            <marker date="1584903135175" expanded="true" signature="119:2889" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="154:221" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="287:1895" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="399:563" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="404:507" ph="/* anything you write to the Console will show up in the ... */" />
+            <marker date="1584903135175" expanded="true" signature="628:876" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="655:720" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="728:868" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="764:863" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="794:821" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1001:1049" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1160:1228" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1186:1224" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1284:1398" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1354:1377" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1504:1537" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1683:1892" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1709:1888" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="1957:2885" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2091:2470" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2147:2272" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2186:2267" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2214:2261" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2298:2466" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2573:2882" ph="{...}" />
+            <marker date="1584903135175" expanded="true" signature="2772:2848" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Serverside Code/Player.IO Test Server Project/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="65" lean-forward="true" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
+          <folding>
+            <marker date="1584903136653" expanded="false" signature="6:94" ph="..." />
+            <marker date="1584903136653" expanded="true" signature="128:681" ph="{...}" />
+            <marker date="1584903136653" expanded="true" signature="159:679" ph="{...}" />
+            <marker date="1584903136653" expanded="true" signature="196:676" ph="{...}" />
+            <marker date="1584903136653" expanded="true" signature="201:613" ph="/* (Uncomment line to start server and make it simulate the user 'bob' connecting for 30 seconds) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
